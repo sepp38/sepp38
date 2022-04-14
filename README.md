@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sepp38
 - 👀 I’m interested in javascript
 - 🌱 I’m currently learning  front end development
-- 💞️ I’m looking to collaborate on web development
+- 💞️ I’m looking to collaborate on diffrent cousine on web development
 - 📫 How to reach me +2540768507234
 
 <!---
